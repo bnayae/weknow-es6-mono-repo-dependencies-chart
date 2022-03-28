@@ -4,6 +4,8 @@
 	"description": "Visualize and Validate ES6 imports within a mono-repo",
 	"version": "0.0.1",
 	"license": "MIT",
+	"author": "bnaya eshet",
+	"publisher": "bnaya eshet",
 	"repository": "https://github.com/bnayae/weknow-es6-mono-repo-dependencies-chart",
 	"engines": {
 		"vscode": "^1.65.0"
