@@ -5,7 +5,7 @@
 	"version": "0.0.1",
 	"license": "MIT",
 	"author": "bnaya eshet",
-	"publisher": "bnaya eshet",
+	"publisher": "bnayaeshet",
 	"repository": "https://github.com/bnayae/weknow-es6-mono-repo-dependencies-chart",
 	"engines": {
 		"vscode": "^1.65.0"
